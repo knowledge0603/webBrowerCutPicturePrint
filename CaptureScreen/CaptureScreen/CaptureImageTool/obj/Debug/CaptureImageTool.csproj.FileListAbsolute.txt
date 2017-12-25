@@ -1,0 +1,10 @@
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageTool\bin\Debug\CaptureImageTool.dll
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageTool\bin\Debug\CaptureImageTool.pdb
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.CaptureImageTool.resources
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.ColorSelector.resources
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.DrawToolsControl.resources
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.Properties.Resources.resources
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageTool\obj\Debug\CaptureImageTool.csproj.GenerateResource.Cache
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageTool\obj\Debug\CaptureImageTool.csproj.CoreCompileInputs.cache
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageTool\obj\Debug\CaptureImageTool.dll
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageTool\obj\Debug\CaptureImageTool.pdb

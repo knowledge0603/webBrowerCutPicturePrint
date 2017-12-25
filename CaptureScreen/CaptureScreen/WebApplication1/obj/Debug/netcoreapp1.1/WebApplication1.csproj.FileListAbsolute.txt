@@ -1,0 +1,9 @@
+E:\work\20171222\CaptureScreen\CaptureScreen\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.deps.json
+E:\work\20171222\CaptureScreen\CaptureScreen\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.json
+E:\work\20171222\CaptureScreen\CaptureScreen\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.dev.json
+E:\work\20171222\CaptureScreen\CaptureScreen\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.dll
+E:\work\20171222\CaptureScreen\CaptureScreen\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+E:\work\20171222\CaptureScreen\CaptureScreen\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csproj.CoreCompileInputs.cache
+E:\work\20171222\CaptureScreen\CaptureScreen\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
+E:\work\20171222\CaptureScreen\CaptureScreen\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
+E:\work\20171222\CaptureScreen\CaptureScreen\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb

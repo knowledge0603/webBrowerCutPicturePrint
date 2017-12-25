@@ -1,0 +1,11 @@
+E:\work\20171222\CaptureScreen\CaptureScreen\MyTest\obj\Debug\MyTest.Form1.resources
+E:\work\20171222\CaptureScreen\CaptureScreen\MyTest\obj\Debug\MyTest.Properties.Resources.resources
+E:\work\20171222\CaptureScreen\CaptureScreen\MyTest\obj\Debug\MyTest.csproj.GenerateResource.Cache
+E:\work\20171222\CaptureScreen\CaptureScreen\MyTest\obj\Debug\MyTest.csproj.CoreCompileInputs.cache
+E:\work\20171222\CaptureScreen\CaptureScreen\MyTest\bin\Debug\MyTest.exe
+E:\work\20171222\CaptureScreen\CaptureScreen\MyTest\bin\Debug\MyTest.pdb
+E:\work\20171222\CaptureScreen\CaptureScreen\MyTest\bin\Debug\CaptureImageTool.dll
+E:\work\20171222\CaptureScreen\CaptureScreen\MyTest\bin\Debug\CaptureImageTool.pdb
+E:\work\20171222\CaptureScreen\CaptureScreen\MyTest\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
+E:\work\20171222\CaptureScreen\CaptureScreen\MyTest\obj\Debug\MyTest.exe
+E:\work\20171222\CaptureScreen\CaptureScreen\MyTest\obj\Debug\MyTest.pdb

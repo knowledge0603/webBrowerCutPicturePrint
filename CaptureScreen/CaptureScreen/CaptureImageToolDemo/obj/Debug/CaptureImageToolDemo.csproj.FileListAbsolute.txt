@@ -1,0 +1,13 @@
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.AboutBoxCSharpWinDemo.resources
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.FormCSharpWinDemo.resources
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.Properties.Resources.resources
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.csproj.GenerateResource.Cache
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.csproj.CoreCompileInputs.cache
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.csprojResolveAssemblyReference.cache
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.exe
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.pdb
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\bin\Debug\CaptureImageTool.dll
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\bin\Debug\SystemMenu.dll
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\bin\Debug\CaptureImageTool.pdb
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.exe
+E:\work\20171222\CaptureScreen\CaptureScreen\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.pdb

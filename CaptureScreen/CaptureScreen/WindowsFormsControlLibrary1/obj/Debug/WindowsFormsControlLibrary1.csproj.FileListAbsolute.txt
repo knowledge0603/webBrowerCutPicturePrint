@@ -1,0 +1,9 @@
+E:\work\20171222\CaptureScreen\CaptureScreen\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+E:\work\20171222\CaptureScreen\CaptureScreen\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\work\20171222\CaptureScreen\CaptureScreen\WindowsFormsControlLibrary1\bin\Debug\CaptureImageTool.dll
+E:\work\20171222\CaptureScreen\CaptureScreen\WindowsFormsControlLibrary1\bin\Debug\CaptureImageTool.pdb
+E:\work\20171222\CaptureScreen\CaptureScreen\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+E:\work\20171222\CaptureScreen\CaptureScreen\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.Cache
+E:\work\20171222\CaptureScreen\CaptureScreen\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+E:\work\20171222\CaptureScreen\CaptureScreen\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+E:\work\20171222\CaptureScreen\CaptureScreen\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
